@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "Proton Calender Toolbar Button",
+  "description": "Adds a Proton Calender button to the toolbar.",
+  "version": "1.0",
+  "author": "Lars Baum",
+  "applications": {
+    "gecko": {
+      "id": "{2909fbd8-b061-4b52-989e-46b05fbdb650}",
+      "strict_min_version": "102.0"
+    }
+  },
+  "icons": {
+    "948": "calendar-logo-greyscale.svg"
+  },
+  "background": {
+    "scripts": [
+      "redirect.js"
+    ]
+  }
+}
