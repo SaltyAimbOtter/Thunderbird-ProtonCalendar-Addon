@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Proton Calender Toolbar Button",
-  "description": "Adds a Proton Calender button to the toolbar.",
-  "version": "1.0",
+  "name": "Proton Calendar Toolbar Button",
+  "description": "Adds a Proton Calendar button to the toolbar.",
+  "version": "1.1",
   "author": "Lars Baum",
   "applications": {
     "gecko": {
