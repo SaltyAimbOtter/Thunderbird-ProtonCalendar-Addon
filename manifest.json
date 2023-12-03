@@ -1,10 +1,10 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Proton Calendar Toolbar Button",
   "description": "Adds a Proton Calendar button to the toolbar.",
   "version": "1.1",
   "author": "Lars Baum",
-  "applications": {
+  "browser_specific_settings": {
     "gecko": {
       "id": "{2909fbd8-b061-4b52-989e-46b05fbdb650}",
       "strict_min_version": "102.0"
