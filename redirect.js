@@ -1,5 +1,4 @@
-browser.spacesToolbar.addButton('ProtonCalendar', {
-    title: "Proton Calendar",
-    defaultIcons: "calendar-logo-greyscale.svg",
-    url: "https://calendar.proton.me"
+browser.spaces.create('ProtonCalendar', 'https://calendar.proton.me', {
+    title: 'Proton Calendar',
+    defaultIcons: 'calendar-logo-greyscale.svg'
 });
